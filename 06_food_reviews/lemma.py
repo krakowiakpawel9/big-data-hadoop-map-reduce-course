@@ -1,3 +1,8 @@
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from nltk import pos_tag

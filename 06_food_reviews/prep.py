@@ -1,3 +1,8 @@
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 import pandas as pd
 
 df = pd.read_csv('prep_reviews.tsv', sep='\t', header=None)

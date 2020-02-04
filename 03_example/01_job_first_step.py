@@ -1,3 +1,8 @@
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 from mrjob.job import MRJob
 from mrjob.step import MRStep
 import re

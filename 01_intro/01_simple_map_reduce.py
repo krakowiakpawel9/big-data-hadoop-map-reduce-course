@@ -1,3 +1,8 @@
+"""
+@author: krakowiakpawel9@gmail.com
+@site: e-smartdata.org
+"""
+
 from mrjob.job import MRJob
 
 # Definiujemy job jako klasę, która dziedziczy po klasie MRJob
